@@ -2,7 +2,7 @@
 
 A beginner-friendly, secure web application that allows doctors to search for past patient cases with similar symptoms using Retrieval-Augmented Generation (RAG) while protecting patient data through local storage and JWT authentication.
 
-### The working version of this Streamlit application is deployed on Streamlit Cloud and can be viewed online through : https://gurkirt-bot-medi-secure-rag-frontendmain-yklv75.streamlit.app/
+**The working version of this Streamlit application is deployed on Streamlit Cloud and can be viewed online through : https://gurkirt-bot-medi-secure-rag-frontendmain-yklv75.streamlit.app/**
 
 ## Project Overview
 
